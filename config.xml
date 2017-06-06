@@ -17,8 +17,8 @@
 	
 <!-- PERMISOS -->	
 	<preference name="permissions" value="none"/>	
-	<feature name="https://api.phonegap.com/1.0/geolocation"/>
-	<feature name="https://api.phonegap.com/1.0/network"/>
+	<feature name="http://api.phonegap.com/1.0/geolocation"/>
+	<feature name="http://api.phonegap.com/1.0/network"/>
 
 <!-- PLUGINS -->
     <plugin name="cordova-plugin-geolocation" source="npm" version="2.4.1" />
@@ -41,7 +41,7 @@
     <preference name="FadeSplashScreen" value="false"/>
     <preference name="DisallowOverscroll" value="true" />
     <preference name="SuppressesLongPressGesture" value="true" />
-    <preference name="phonegap-version" value="cli-6.3.0" />
+    <preference name="phonegap-version" value="cli-6.5.0" />
 
 <!-- CONFIGURACIONES ESPECÍFIAS, ICONOS Y SPLASH -->
     <!-- al estar todos definidos, el icono y el splash por defecto no se usan, pero son
