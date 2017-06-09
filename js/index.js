@@ -74,15 +74,10 @@ function geolocalizar(){
 		  alert("Entra dentro del if");
 		  
 		  var successFunction = function(position){
-			  alert("Procede a encontrar coordenada x");
 			  coor_x = position.coords.longitude;
-			  alert("Coordenada x encontrada. Procede a encontrar coordenada y");
 			  coor_y = position.coords.latitude;
-			  alert("Coordenada y encontrada.");
 			  idEntidad = null;
-			  alert("Llega a loading(false)"); 
 			  loading(false);
-			  alert("Pasa de loading(false) y entra en la funcion cargarCategoria()");
 			  cargarCategoria();
 		  };
 		  var errorFunction = function(){
