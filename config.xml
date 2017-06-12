@@ -2,8 +2,8 @@
     	<widget xmlns   = "http://www.w3.org/ns/widgets"
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
 		id          = "es.juntadeandalucia.mapea.sepim.castilleja_cuesta"
-		versionCode = "102" 
-		version     = "1.0.2" >
+		versionCode = "101" 
+		version     = "1.0.1" >
 
 	<name>Callejero Turístico de Castilleja de la Cuesta</name>
 	<description>
