@@ -67,11 +67,11 @@ function errorExit(){
 function geolocalizar(){
 	//console.log("geolocalizar");
 	
-	alert("Entra dentro de la funcion geolocalizar");
+
 	
 	if (navigator.geolocation) {
 		
-		  alert("Entra dentro del if");
+		 
 		  
 		  var successFunction = function(position){
 			  coor_x = position.coords.longitude;
