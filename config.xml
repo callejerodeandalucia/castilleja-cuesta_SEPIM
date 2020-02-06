@@ -97,12 +97,12 @@
 	<splash src="resources/android/splash/drawable-port-hdpi-screen.png" density="port-hdpi" />
 	<splash src="resources/android/splash/drawable-port-xhdpi-screen.jpg" density="port-xhdpi" />
 	<splash src="resources/android/splash/drawable-port-xxhdpi-screen.jpg" density="port-xxhdpi" />
-	<splash src="resources/android/splash/drawable-port-xxxhdpi-screen.png" density="port-xxxhdpi" />
+	<splash src="resources/android/splash/drawable-port-xxxhdpi-screen.jpg" density="port-xxxhdpi" />
         <splash src="resources/android/splash/drawable-port-ldpi-screen.png" qualifier="port-ldpi"/>
         <splash src="resources/android/splash/drawable-port-mdpi-screen.png" qualifier="port-mdpi"/>
         <splash src="resources/android/splash/drawable-port-hdpi-screen.png" qualifier="port-hdpi"/>
         <splash src="resources/android/splash/drawable-port-xhdpi-screen.jpg" qualifier="port-xhdpi"/>
         <splash src="resources/android/splash/drawable-port-xxhdpi-screen.jpg" qualifier="port-xxhdpi"/>
-        <splash src="resources/android/splash/drawable-port-xxxhdpi-screen.png" qualifier="port-xxxhdpi"/>
+        <splash src="resources/android/splash/drawable-port-xxxhdpi-screen.jpg" qualifier="port-xxxhdpi"/>
     </platform>
 </widget>
